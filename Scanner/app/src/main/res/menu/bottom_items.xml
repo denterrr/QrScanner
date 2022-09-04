@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/scanFragment"
+    android:title=""
+    android:icon="@drawable/ic_scanner"
+    android:orderInCategory="1"/>
+    <item android:id="@+id/historyFragment2"
+        android:icon="@drawable/ic_history"
+        android:orderInCategory="2"
+        android:title="" />
+
+</menu>
